@@ -29,6 +29,7 @@ body {
 .progreso {
     width: 40%;
     margin: 3rem 0;
+    z-index: 110;
 
 }
 
