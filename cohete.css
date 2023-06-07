@@ -31,13 +31,14 @@ body {
     justify-content: center;
     width: 100%;
     margin: 0.5rem;
+    position: relative;
 
 }
 
 .progreso {
     width: 40%;
     margin: 3rem 0;
-    position: sticky;
+    position: relative;
 
 }
 
