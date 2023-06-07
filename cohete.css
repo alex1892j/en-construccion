@@ -67,10 +67,7 @@ a {
 
 }
 
-.pie {
-    text-align: center;
 
-}
 
 a {
 
@@ -102,4 +99,9 @@ a {
 .pie a {
     text-decoration: none;
     color: #fff;
+}
+
+.pie {
+    text-align: center;
+
 }
